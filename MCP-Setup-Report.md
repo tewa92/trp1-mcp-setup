@@ -1,6 +1,6 @@
 # TRP 1 MCP Setup Challenge Report
 
-## 1. What You Did
+## 1. What I Did
 
 - Configured VS Code with Tenx MCP server (`.vscode/mcp.json`) and authenticated GitHub.
 - Created `.github/copilot-instructions.md` with optimized AI agent rules.
